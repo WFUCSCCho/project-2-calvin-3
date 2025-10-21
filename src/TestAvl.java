@@ -1,7 +1,10 @@
+// if AVL is done correctly this should work
+// doesnt check every case but should be a good start
+
 public class TestAvl {
     // Test program
     public static void main( String [ ] args ) {
-        AvlTree<Integer> t = new AvlTree<>();
+        AvLTree<Integer> t = new AvLTree<>();
         final int SMALL = 40;
         final int NUMS = 1000000;  // must be even
         final int GAP = 37;
