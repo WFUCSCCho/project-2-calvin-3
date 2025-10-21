@@ -77,17 +77,26 @@ BST vs. AVL Tree running rate (search):
 
 ChatGPT citations:
 Prompt: Please verify this generic AVL tree implementation is correct. (Attached AvLTree file)
+
 <img width="658" height="129" alt="Screenshot 2025-10-21 at 1 16 54 AM" src="https://github.com/user-attachments/assets/061932e4-2191-4dd4-8e0e-d50f0f546f3d" />
+
 Theres more in the response but nothing I used. 
 
 Prompt: Please show me a clean way I can print my results to the terminal. (attached a screenshot of step 4 from the read me)
+
 <img width="693" height="280" alt="Screenshot 2025-10-21 at 1 19 23 AM" src="https://github.com/user-attachments/assets/a5859da7-9b7d-4602-8ab3-12c025dd2ac8" />
+
 this was the code I ended up taking
 
 Prompt: How can I format my data in the CSV so it is clean and avoids scientific notation?
+
 <img width="475" height="106" alt="Screenshot 2025-10-21 at 1 21 51 AM" src="https://github.com/user-attachments/assets/027d05e6-b8eb-479a-9db1-d71a6ca64b24" />
 <img width="531" height="297" alt="Screenshot 2025-10-21 at 1 22 02 AM" src="https://github.com/user-attachments/assets/00a7c2ed-bfc6-4e70-a4ff-1d4037fa7cbb" />
+
 this is the code I used
+
+Prompt: Generate a file of utility methods for timing my inserting and searching in my AVLs and BSTs (attached timing requirements and graphing requirements)
+Result: the TimingUtlis class
 
 Personal Assesment:
 ChatGPT was pretty useful for this lab. It spits out a lot of irrevelent or just not useful stuff as well though. It also sturggles heavily with creating code that flows well with the rest of the classes. Sometimes it's code fixes one problem but just errors something else in another class which leads to even more problems.  
